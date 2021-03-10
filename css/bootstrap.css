@@ -6566,5 +6566,8 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 .centered-table {
-  margin: auto !important;
+  margin: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
+
 }
